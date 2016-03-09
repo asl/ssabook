@@ -1,0 +1,13 @@
+Package: ssabook
+Type: Package
+Title: Data for Singular Spectrum Analysis with R
+Version: 1.0
+Author: Nina Golyandina, Anton Korobeynikov, Anatoly Zhigljavsky
+Maintainer: Anton Korobeynikov <anton@korobeynikov.info>
+Suggests: fma
+Description: The collection of datasets used in the book "Singular Spectrum Analysis with R".
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+Depends: R (>= 3.1)
+NeedsCompilation: no
