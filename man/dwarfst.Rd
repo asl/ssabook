@@ -34,7 +34,7 @@
 
 \source{
   The Santa Fe Time Series Competition Data
-  \url{http://www-psych.stanford.edu/~andreas/Time-Series/SantaFe.html}
+  \url{http://www.comp-engine.org/timeseries/time-series_data_source/source-151/}
 }
 
 \references{

@@ -12,6 +12,6 @@
   A time series with 4344 observations.
 }
 \source{
-  Kindly provided by Crimtan, UK for "ssadata" package.
+  Kindly provided by Crimtan, UK for "ssabook" package.
 }
 \keyword{datasets}

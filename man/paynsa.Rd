@@ -14,7 +14,7 @@
 }
 \source{
   US. Bureau of Labor Statistics, All Employees: Total Nonfarm Payrolls
-  [PAYNSA], retrieved from FRED, Federal Reserve Bank of St. Louis
-  \url{https://research.stlouisfed.org/fred2/series/PAYNSA}
+  [PAYNSA], retrieved from TSDL (Hyndman, R.J. Time Series Data Library,
+  http://data.is/TSDLdemo)
 }
 \keyword{datasets}

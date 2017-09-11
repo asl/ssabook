@@ -20,5 +20,8 @@
 \source{
   WDC-SILSO, Royal Observatory of Belgium, Brussels.
   \url{http://www.sidc.be/silso/datafiles}
+
+  Obtained from TSDL (Hyndman, R.J. Time Series Data Library,
+  http://data.is/TSDLdemo)
 }
 \keyword{datasets}

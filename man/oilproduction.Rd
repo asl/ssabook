@@ -1,7 +1,7 @@
 \name{oilproduction}
 \alias{oilproduction}
 \docType{data}
-\title{Cruide Oil and Natural Gas Plant Liquids Production}
+\title{Crude Oil and Natural Gas Plant Liquids Production}
 \description{
   Monthly cruide oil and natural gas plant liquids production from January 1973
   till December 1997

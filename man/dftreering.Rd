@@ -11,5 +11,8 @@
 }
 \source{
   Hyndman, R.J. Time Series Data Library, http://data.is/TSDLdemo.
+
+  Hydrology, Source: Hipel and McLeod (1994), in file: hurst/snake,
+  Description: Douglas fir, snake River basin, U S A, 1282--1950
 }
 \keyword{datasets}
